@@ -2,8 +2,8 @@
 
 ## "Content Performance Insights Dashboard"
 
-**Time estimate**: 2-4 hours
-**Delivery**: GitHub repo with README
+- **Time estimate**: 2-4 hours
+- **Delivery**: GitHub repo with README
 
 ---
 
@@ -25,9 +25,9 @@ See `sample_videos.csv`:
 
 ```csv
 video_id,title,category,publish_date,views,watch_time_seconds,likes,comments,shares,thumbnail_style
-v001,Brave Cookie Chaos #1,education,2024-12-18,289962,41464566,3131,812,792,colorful
-v002,Magic Kitten Mystery #2,entertainment,2024-11-14,2355492,223771740,76388,9842,30376,minimal
-v003,Rainbow Kitten Heroes #3,education,2023-01-19,1061621,317424679,24133,5262,2871,cartoon
+001,Brave Cookie Chaos #1,education,2024-12-18,289962,41464566,3131,812,792,colorful
+002,Magic Kitten Mystery #2,entertainment,2024-11-14,2355492,223771740,76388,9842,30376,minimal
+003,Rainbow Kitten Heroes #3,education,2023-01-19,1061621,317424679,24133,5262,2871,cartoon
 ```
 
 ---

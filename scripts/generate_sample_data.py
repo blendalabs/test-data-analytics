@@ -57,7 +57,7 @@ def generate_row(video_id: int) -> list:
     thumbnail = random.choice(THUMBNAIL_STYLES)
 
     return [
-        f"v{video_id:03d}",
+        f"{video_id:04d}",
         title,
         category,
         publish_date,
