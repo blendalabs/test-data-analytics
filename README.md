@@ -2,16 +2,16 @@
 
 ## "Content Performance Insights Dashboard"
 
-**Time estimate**: 3-4 hours (make this clear—respect their time)  
+**Time estimate**: 2-3 hours
 **Delivery**: GitHub repo with README
 
 ---
 
 ## The Problem:
 
-You're provided a dataset of video performance metrics (CSV or JSON). Build a simple web application that:
+You’re provided a dataset of video performance metrics (CSV or JSON). Build a simple web application that:
 
-1. **Ingests and processes the data (basic ETL)
+1. **Ingests and processes the data** (basic ETL)
 2. **Applies ML/analytics** to surface insights
 3. **Visualizes findings** in an interactive dashboard
 
@@ -21,9 +21,13 @@ You're provided a dataset of video performance metrics (CSV or JSON). Build a si
 
 ## Dataset Provided:
 
+See `sample_videos.csv`:
+
 ```csv
 video_id,title,category,publish_date,views,watch_time_seconds,likes,comments,shares,thumbnail_style
-v001,Kitchen Chaos,animation,2024-01-15,45000,180000,1200,89,245,bright
+v001,Brave Cookie Chaos #1,education,2024-12-18,289962,41464566,3131,812,792,colorful
+v002,Magic Kitten Mystery #2,entertainment,2024-11-14,2355492,223771740,76388,9842,30376,minimal
+v003,Rainbow Kitten Heroes #3,education,2023-01-19,1061621,317424679,24133,5262,2871,cartoon
 ```
 
 ---
@@ -60,7 +64,7 @@ Build a simple web dashboard that shows:
 
 ---
 
-## What We're Looking For:
+## What We’re Looking For:
 
 ✅ **Clear thinking**: Can you identify meaningful patterns?  
 ✅ **Product sense**: Does your dashboard answer useful questions?  
