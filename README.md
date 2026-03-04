@@ -78,15 +78,14 @@ Build a simple web dashboard that shows:
 
 ## Deliverables:
 
-1. **GitHub repo** with:
-   - Source code
-   - README with:
-     - Setup instructions
-     - Your approach/methodology
-     - Key insights you found
-     - What you'd improve with more time
-   - Sample screenshots (if dashboard doesn't run easily)
-2. **Optional**: Short video walkthrough (2-3 min Loom)
+**GitHub repo** with:
+- Source code
+- README with:
+  - Setup instructions
+  - Your approach/methodology
+  - Key insights you found
+  - What you'd improve with more time
+- Sample screenshots (if dashboard doesn't run easily)
 
 ---
 
