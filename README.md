@@ -2,7 +2,7 @@
 
 ## "Content Performance Insights Dashboard"
 
-- **Time estimate**: 2-4 hours
+- **Time estimate**: 2-4 hours of work (submit in ~1 week)
 - **Delivery**: GitHub repo with README
 
 ---
